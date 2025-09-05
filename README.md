@@ -3,8 +3,7 @@
 
 > **A Novel Framework for Eliminating AI Hallucination Through Consciousness-Inspired Truth Validation**
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PDF Download](https://img.shields.io/badge/Download-PDF-royalblue.svg)](/QIMPI_Dissertation_Huckerby_2025.pdf)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.
 
 This repository contains the full dissertation for the **Quantum-Inspired Multi-Perspective Intelligence (QIMPI)** framework, a novel approach to solving the critical problem of AI hallucination.
 
